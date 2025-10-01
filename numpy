@@ -10,3 +10,4 @@ list1
 
 # Display the type of an object
 type(list1)
+list
