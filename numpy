@@ -11,3 +11,9 @@ list1
 # Display the type of an object
 type(list1)
 list
+#Convert list to Numpy Array
+arr1 = np.array(list1)
+arr1
+#Convert list to Numpy Array
+arr1 = np.array(list1)
+arr1
