@@ -6,3 +6,4 @@ from IPython.display import Image
 list1 = [10,20,30,40,50,60]
 list1
 
+[10, 20, 30, 40, 50, 60]
