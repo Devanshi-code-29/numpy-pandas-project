@@ -17,3 +17,4 @@ arr1
 #Convert list to Numpy Array
 arr1 = np.array(list1)
 arr1
+array([10, 20, 30, 40, 50, 60])
